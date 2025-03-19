@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bye</folder>
+	<filename>bye.015746d4-f75d-11ef-8ccd-1068387f38f5.jpg</filename>
+	<path>/home/akila-induwara/RealTimeObjectDetection/Tensorflow/workspace/images/train/bye.015746d4-f75d-11ef-8ccd-1068387f38f5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>208</ymin>
+			<xmax>375</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
